@@ -1,1 +1,0 @@
-# simple_diet_list
